@@ -1,2 +1,2 @@
 # synthetic-data
-To create synthetic dataset
+To create synthetic dataset for handwritten chemical equation recognition
